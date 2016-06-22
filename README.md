@@ -8,8 +8,15 @@ Inspired by [this graph](https://scottkenemore.files.wordpress.com/2010/09/zombi
 * Step 2: Take the 13 most popular zombies in fiction, and have /r/samplesize rate on speed, strength, and intelligence in a second survey. (All answers were optional, since not everyone has seen everything)
 * Step 3: Some elbow grease with the code. In order to make the survey visually appealing and easy to answer, I had to let Google Forms leave the data in a somewhat messy format. Not to mention I had to perform the analysis on top of that. What I'm trying to say is, this was kinda fun.
 
-## Source
+## Graphic
+
+![How dangerous is a Zombie?](https://raw.githubusercontent.com/zonination/zombies/master/zombies01.png)
+
+## Source:
 
 Two sets of survey data from /r/samplesize.
 
-## Tools
+## Tools Used:
+
+* Rstudio
+* ggplot2
