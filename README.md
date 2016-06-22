@@ -1,6 +1,6 @@
 # How Dangerous is a Zombie?
 
-## Method
+## About
 
 Inspired by [this graph](https://scottkenemore.files.wordpress.com/2010/09/zombieguide.jpg), I decided to ping /r/samplesize to see if the Reddit hivemind agreed. Turns out, there's a slight difference with some movies, and a greater difference with others.
 
