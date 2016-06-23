@@ -1,5 +1,7 @@
 # How Dangerous is a Zombie?
 
+[Featured on Reddit's Upvoted](https://upvoted.com/2015/11/03/which-medium-has-the-deadliest-zombies-tv-movies-or-video-games/) 2015-11-03
+
 ## About
 
 Inspired by [this graph](https://scottkenemore.files.wordpress.com/2010/09/zombieguide.jpg), I decided to ping /r/samplesize to see if the Reddit hivemind agreed. Turns out, there's a slight difference with some movies, and a greater difference with others.
